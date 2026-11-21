@@ -1,0 +1,1 @@
+﻿namespace LogiMarket.Domain.Entregas;
